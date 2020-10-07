@@ -6,15 +6,17 @@ Amrita Code hour contest Solutions and Resources
 
 1. Fork the repository.
 
-2. Add the problems in any language by creating a folder for the Contest  (if it does not exist) eg. Contest1/
+2. Add the problem solution from a contest mentioned below in any language by creating a folder for the Contest  (if it does not exist) eg. Contest1/
 
 3. Add the problems in any language by creating a folder for the Color (if it does not exist) eg. Orange/
 
-4. Name the file by taking the unique ID of the problem from Hackerrank which can be fetched from the URL for eg. https://www.hackerrank.com/contests/(contest-name)/challenges/(problem-id) eg. For the problem [print-the-elements-of-a-linked-list-in-reverse](https://www.hackerrank.com/contests/oa2021o2/challenges/print-the-elements-of-a-linked-list-in-reverse) name it as print-the-elements-of-a-linked-list-in-reverse.file-extension
+4. You may submit the solution to a problem that has already been solved in a different language.
 
-5. Make sure that the solution you post works for all test cases.
+5. Name the file by taking the unique ID of the problem from Hackerrank which can be fetched from the URL for eg. https://www.hackerrank.com/contests/(contest-name)/challenges/(problem-id) eg. For the problem [print-the-elements-of-a-linked-list-in-reverse](https://www.hackerrank.com/contests/oa2021o2/challenges/print-the-elements-of-a-linked-list-in-reverse) name it as print-the-elements-of-a-linked-list-in-reverse.file-extension
 
-6. Raise a pull request and wait for the code to be merged :) 
+6. Make sure that the solution you post works for all test cases.
+
+7. Raise a pull request and wait for the code to be merged :) 
 
 
 ## Contest Links
