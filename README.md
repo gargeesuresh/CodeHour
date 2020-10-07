@@ -1,5 +1,5 @@
 # CodeHour
-Code hour contest Solutions and Resources
+Amrita Code hour contest Solutions and Resources
 
 ## Contribution Guidelines
 
