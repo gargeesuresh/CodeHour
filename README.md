@@ -25,7 +25,7 @@ Amrita Code hour contest Solutions and Resources
 * [Red](https://www.hackerrank.com/oa2021r1)
 * [Orange](https://www.hackerrank.com/oa2021o1)
 * [Blue](http://www.hackerrank.com/oa2021b1)
-* [Green](https://www.hackerrank.com/oa2021g2)
+* [Green](https://www.hackerrank.com/oa2021g1)
 
 ### Contest 2
 * [Red](https://www.hackerrank.com/oa2021r2)
