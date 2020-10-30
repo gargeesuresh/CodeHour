@@ -33,6 +33,13 @@ Amrita Code hour contest Solutions and Resources
 * [Blue](http://www.hackerrank.com/oa2021b2)
 * [Green](https://www.hackerrank.com/oa2021g2)
 
+### Contest 3
+* [Red](https://www.hackerrank.com/oa2021r3)
+* [Orange](https://www.hackerrank.com/oa2021o3)
+* [Blue](http://www.hackerrank.com/oa2021b3)
+* [Green](https://www.hackerrank.com/oa2021g3)
+
+
 ## Other Resources
 * [CSE google sheet](http://bit.ly/2018s5csea)
 * [C-programming fundamentals](https://docs.google.com/spreadsheets/d/1yWOMD69iuN12hlUgEL5z_d8hMldM5cvHIbcsnbLq3qQ/edit?usp=sharing)
